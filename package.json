@@ -1,0 +1,23 @@
+{
+  "name": "qpp-book",
+  "version": "1.0.0",
+  "description": "这是第四次作业，创建电影电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qipanpan/qpp-book.git"
+  },
+  "keywords": [],
+  "author": "qipanpan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qipanpan/qpp-book/issues"
+  },
+  "homepage": "https://github.com/qipanpan/qpp-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
